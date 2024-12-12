@@ -1,2 +1,4 @@
 # html.portfolio
-A basic portfolio website that I made just using html you can say this is my first step in this huge world of development.
+This is the solution for **Personal Portfolio** on [roadmap.sh](https://roadmap.sh/projects/portfolio-website)
+## Project Description
+A simple HTML website created as part of the beginner-level project on Roadmap.sh.
